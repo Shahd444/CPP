@@ -2,7 +2,7 @@
 
 Overview
 
-This repository showcases my complete progress through all nine C++ modules, covering the full spectrum of modern C++ — from the fundamentals of Object-Oriented Programming (OOP) to templates, STL, and algorithms.
+This repository showcases my complete progress through all ten C++ modules, covering the full spectrum of modern C++ — from the fundamentals of Object-Oriented Programming (OOP) to templates, STL, and algorithms.
 Each module built on the previous one, strengthening design, abstraction, and performance skills.
 
 📘 Modules Overview
